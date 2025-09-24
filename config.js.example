@@ -10,11 +10,11 @@ export const config = {
    * @description Opsi ini memerlukan `autoReadStory` untuk diatur ke `true`.
    * @type {boolean}
    */
-  autoReactStory: true,
+  autoReactStory: false,
 
   /**
    * @description Emoji yang akan digunakan untuk reaksi status otomatis.
    * @type {string}
    */
-  reactEmote: "✨",
+  reactEmote: "💜",
 };
